@@ -1,0 +1,60 @@
+{
+  "category": "data-science",
+  "created_date": "2025-09-15T23:14:54.040264",
+  "default_ports": [
+    8888
+  ],
+  "dependencies": [
+    "python3",
+    "python3-pip",
+    "nodejs"
+  ],
+  "description": "Jupyter Lab is an interactive development environment for notebooks, code, and data",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/data-science/jupyter",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/data-science/jupyter",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T23:14:54.040271",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "jupyter",
+  "repository_url": "https://github.com/howtomgr/jupyter",
+  "spec_version": "2.0",
+  "subcategory": "data-science",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "data-science",
+    "notebooks",
+    "python",
+    "development"
+  ],
+  "title": "Jupyter",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/data-science/jupyter"
+}
